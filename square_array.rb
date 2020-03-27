@@ -10,4 +10,5 @@ end
 def squared_array(array)
   array.collect do |element|
     element ** 2
-  end 
+  end
+end 
